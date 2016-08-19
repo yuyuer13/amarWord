@@ -9,6 +9,8 @@ function NewWord()
 	isOpend=true;
 	oframe.showdialog(0);
 }
+
+
 function CloseWord()
 {
     oframe.close();
